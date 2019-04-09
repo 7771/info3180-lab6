@@ -5,3 +5,8 @@ body {
 footer  {
     padding-top: 20px;
 }
+
+ul{
+    list-style-position: inside;
+    list-style-type: none;
+}
